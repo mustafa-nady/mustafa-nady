@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustafa Nady
-- 👀 I’m interested in ... artificial intellegence 
+- 👀 I’m interested in ... artificial intelligence
 - 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ... artificial intellegence projects 
+- 💞️ I’m looking to collaborate on ... artificial intelligence projects 
 - 📫 How to reach me ... //https://www.linkedin.com/in/mustafa-nady-b4404914b/
 
 <!---
